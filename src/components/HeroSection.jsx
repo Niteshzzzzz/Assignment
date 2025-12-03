@@ -32,7 +32,7 @@ export default function HeroSection({ dark }) {
                     /> */}
                     <div className="flex-1 flex justify-center ">
                         <img
-                            src="public/website-example-justinmind.png"
+                            src="website-example-justinmind.png"
                             alt="Hero Illustration 1"
                             className="w-56 md:w-72 drop-shadow-xl rounded-xl absolute left-0 top-[-130px] hover:scale-105 transition-all z-30 shadow-md shadow-blue-500"
                         />
