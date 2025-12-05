@@ -10,6 +10,7 @@ import Footer from './components/Footer'
 import About from './components/About'
 import MarqueeStrip from './components/Marquee'
 import ProjectsSection from './components/ProjectsSection'
+import TeamSection from './components/TeamSection'
 
 function App() {
       const [dark, setDark] = useState(false);
@@ -23,6 +24,7 @@ function App() {
       <About dark={dark} setDark={setDark} />
       <ServicesSection dark={dark} setDark={setDark} />
       <ProjectsSection dark={dark} />
+      <TeamSection dark={dark} />
       <ContactSection dark={dark} setDark={setDark} />
       <Footer dark={dark} setDark={setDark} />
     </>
