@@ -23,9 +23,9 @@ export default function Footer({ dark }) {
         {/* Contact Info */}
         <div className="space-y-4">
           <h3 className="text-xl font-bold mb-3 tracking-wide">Contact</h3>
-          <p className="hover:text-blue-500 transition duration-300">Email: contact@brandname.com</p>
-          <p className="hover:text-blue-500 transition duration-300">Phone: +123 456 7890</p>
-          <p className="hover:text-blue-500 transition duration-300">Address: 123 Main Street, City, Country</p>
+          <p className="hover:text-blue-500 transition duration-300">Email: niteshkr1661@gmail.com</p>
+          <p className="hover:text-blue-500 transition duration-300">Phone: +91 7322841661</p>
+          <p className="hover:text-blue-500 transition duration-300">Address: 23 Kukas, Jaipur, India</p>
         </div>
 
         {/* Social Icons */}
